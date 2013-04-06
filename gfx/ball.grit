@@ -1,0 +1,5 @@
+# Set the transparent color to magenta.
+-gTFF00FF
+
+# Set the bitmap depth to 8.
+-gB8
